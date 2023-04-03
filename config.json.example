@@ -1,0 +1,20 @@
+{
+  "hp_switches": [
+    {
+      "ip": "",
+      "ports": "",
+      "location": ""
+    }
+  ],
+  "unifi_controller": {
+    "ip": "",
+    "user": "",
+    "password": "",
+    "access_points": []
+  },
+  "opnsense": {
+    "ip": "",
+    "api_key": "",
+    "api_secret": ""
+  }
+}
